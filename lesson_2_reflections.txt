@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+Creates a .git file in the folder. Need that to let GIT know to start tracking files
+
+
+git reset lesson_2_reflections.txt
